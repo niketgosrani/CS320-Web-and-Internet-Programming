@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/15697296/retaining-values-of-variables-after-successive-form-submission-in-jsp
